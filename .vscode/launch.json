@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run t8happy-u9c73z-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
